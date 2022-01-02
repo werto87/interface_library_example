@@ -1,0 +1,7 @@
+#ifndef B004589F_B616_482E_BE82_A95F528154FD
+#define B004589F_B616_482E_BE82_A95F528154FD
+
+#include "hello.hpp"
+#include "hello.ipp"
+
+#endif /* B004589F_B616_482E_BE82_A95F528154FD */
